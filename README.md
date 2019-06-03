@@ -1,2 +1,2 @@
 # Dask_demo
--- Scaling existing code of Sklearn
+Demo to show the usage of Dask.
